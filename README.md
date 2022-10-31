@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning to improve the user experience of iOS apps for everyone using Apple's accessibility API
 
-📫 You can reach me on Twitter @n_develop
+📫 You can reach me on Twitter @n_develop or on Mastodon @n_develop@mastodon.social
 
 <!---
 n-develop/n-develop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
